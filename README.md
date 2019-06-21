@@ -158,5 +158,8 @@
 			<input type="" name="" placeholder="E-mail">
 			<button>Sign In</button>
 		</div>
+		<div id="trailer" style="color: white; margin-top: 850px; margin-left: 470px;">
+			<video width="400px" controls><source src="video/trailer.mp4" type="video/mp4"></video>
+		</div>
 	</body>
 </html>
